@@ -43,7 +43,7 @@ Fuente de datos mock: `src/app/mocks/data/ properties.mock.json` (nota: el archi
 - En desarrollo, MSW puede interceptar `/api/*`. En producción normalmente no se inicia.
 - La app seguirá funcionando sin MSW porque los endpoints API devuelven el mock.
 
-##Demo
+## Demo
 <img width="1557" height="1003" alt="image" src="https://github.com/user-attachments/assets/840d448b-507f-4bd0-ae52-0e5677189a3d" />
 
 <img width="1557" height="1003" alt="image" src="https://github.com/user-attachments/assets/7aad3f3a-0cf7-416f-bcb9-b71d2066216a" />
