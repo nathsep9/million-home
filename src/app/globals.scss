@@ -1,0 +1,16 @@
+:root {
+  --page-max: 1200px;
+}
+
+body {
+  margin: 0;
+  background-color: #ffffff;
+  color: #e6e8ee;
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+}
+
+.container {
+  max-width: var(--page-max);
+  margin: 0 auto;
+  padding: 2rem;
+}

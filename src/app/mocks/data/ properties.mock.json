@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1",
+    "idOwner": "OWN-001",
+    "name": "Palm Grove Residence",
+    "address": "123 Ocean Dr, Miami, FL",
+    "price": 320000,
+    "imageUrl": "https://images.unsplash.com/photo-1502877338535-766e1452684a?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "2",
+    "idOwner": "OWN-002",
+    "name": "Sunset Villa",
+    "address": "45 Sunset Blvd, Los Angeles, CA",
+    "price": 780000,
+    "imageUrl": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "3",
+    "idOwner": "OWN-003",
+    "name": "Downtown Loft",
+    "address": "9th Ave, New York, NY",
+    "price": 560000,
+    "imageUrl": "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "4",
+    "idOwner": "OWN-004",
+    "name": "Ocean Breeze Penthouse",
+    "address": "500 Collins Ave, Miami Beach, FL",
+    "price": 1250000,
+    "imageUrl": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "5",
+    "idOwner": "OWN-005",
+    "name": "Golden Gate Villa",
+    "address": "88 Lombard St, San Francisco, CA",
+    "price": 950000,
+    "imageUrl": "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "6",
+    "idOwner": "OWN-006",
+    "name": "Skyline Apartment",
+    "address": "West 34th St, New York, NY",
+    "price": 690000,
+    "imageUrl": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "7",
+    "idOwner": "OWN-007",
+    "name": "Palm Desert Retreat",
+    "address": "320 Palm Canyon Dr, Palm Springs, CA",
+    "price": 430000,
+    "imageUrl": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "8",
+    "idOwner": "OWN-008",
+    "name": "Lakeview Cottage",
+    "address": "77 Lake Dr, Tahoe City, CA",
+    "price": 410000,
+    "imageUrl": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "9",
+    "idOwner": "OWN-009",
+    "name": "The Urban Nest",
+    "address": "222 Main St, Chicago, IL",
+    "price": 380000,
+    "imageUrl": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "10",
+    "idOwner": "OWN-010",
+    "name": "Coral Bay House",
+    "address": "14 Coral Way, Key West, FL",
+    "price": 875000,
+    "imageUrl": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "11",
+    "idOwner": "OWN-011",
+    "name": "Mountain Escape Cabin",
+    "address": "430 Aspen Rd, Denver, CO",
+    "price": 510000,
+    "imageUrl": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "12",
+    "idOwner": "OWN-012",
+    "name": "Laguna Dream Home",
+    "address": "55 Ocean Blvd, Laguna Beach, CA",
+    "price": 1320000,
+    "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "13",
+    "idOwner": "OWN-013",
+    "name": "City Lights Condo",
+    "address": "Broadway Ave, New York, NY",
+    "price": 750000,
+    "imageUrl": "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "14",
+    "idOwner": "OWN-014",
+    "name": "Coastal Haven",
+    "address": "300 Ocean Blvd, Malibu, CA",
+    "price": 2250000,
+    "imageUrl": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "15",
+    "idOwner": "OWN-015",
+    "name": "Riverside Estate",
+    "address": "15 River St, Austin, TX",
+    "price": 680000,
+    "imageUrl": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "16",
+    "idOwner": "OWN-016",
+    "name": "Seaside Escape",
+    "address": "5 Beach Ave, Santa Barbara, CA",
+    "price": 820000,
+    "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "17",
+    "idOwner": "OWN-017",
+    "name": "The Glass House",
+    "address": "100 Skyline Dr, Seattle, WA",
+    "price": 1140000,
+    "imageUrl": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "18",
+    "idOwner": "OWN-018",
+    "name": "Garden Grove Residence",
+    "address": "67 Palm Way, Orlando, FL",
+    "price": 470000,
+    "imageUrl": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "19",
+    "idOwner": "OWN-019",
+    "name": "Vista Verde Mansion",
+    "address": "200 Hillside Rd, Beverly Hills, CA",
+    "price": 2800000,
+    "imageUrl": "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "20",
+    "idOwner": "OWN-020",
+    "name": "Cedarwood Chalet",
+    "address": "92 Alpine Dr, Aspen, CO",
+    "price": 960000,
+    "imageUrl": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?q=80&w=1200&auto=format&fit=crop"
+  }
+]

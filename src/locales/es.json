@@ -1,0 +1,19 @@
+{
+  "app.title": "Million Property Explorer",
+  "nav.properties": "Propiedades",
+  "nav.about": "Acerca de",
+  "filters.name": "Nombre",
+  "filters.address": "Dirección",
+  "filters.priceRange": "Rango de precios",
+  "list.loading": "Cargando...",
+  "list.noResults": "No hay resultados",
+  "detail.back": "Volver",
+  "detail.owner": "Propietario",
+  "home.aboutTab": "Sobre nosotros",
+  "home.buyTab": "Comprar",
+  "home.hero.kicker": "LLEGASTE AL LUGAR QUE ESTABAS BUSCANDO",
+  "home.hero.title": "Líderes en vender inmuebles",
+  "home.hero.subtitle": "Solicita una oferta gratis ingresando la dirección, características del inmueble y tus datos de contacto.",
+  "home.hero.placeholder": "Escribe tu dirección...",
+  "home.hero.cta": "Ver propiedades"
+}

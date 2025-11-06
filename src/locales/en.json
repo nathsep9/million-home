@@ -1,0 +1,19 @@
+{
+  "app.title": "Million Property Explorer",
+  "nav.properties": "Properties",
+  "nav.about": "About",
+  "filters.name": "Name",
+  "filters.address": "Address",
+  "filters.priceRange": "Price range",
+  "list.loading": "Loading...",
+  "list.noResults": "No results",
+  "detail.back": "Back",
+  "detail.owner": "Owner",
+  "home.aboutTab": "About us",
+  "home.buyTab": "Buy",
+  "home.hero.kicker": "YOU'VE ARRIVED AT THE RIGHT PLACE",
+  "home.hero.title": "Leaders in selling real estate",
+  "home.hero.subtitle": "Request a free offer by entering the address, features of the property and your contact details.",
+  "home.hero.placeholder": "Type your address...",
+  "home.hero.cta": "View properties"
+}
