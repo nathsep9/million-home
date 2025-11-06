@@ -43,28 +43,15 @@ Fuente de datos mock: `src/app/mocks/data/ properties.mock.json` (nota: el archi
 - En desarrollo, MSW puede interceptar `/api/*`. En producción normalmente no se inicia.
 - La app seguirá funcionando sin MSW porque los endpoints API devuelven el mock.
 
-## Resolución de problemas
-- 404 en `/api/properties` al recargar “Buy”: asegúrate de que los archivos existan en `src/app/api/properties/route.ts` y `src/app/api/properties/[id]/route.ts` y que el servidor esté corriendo.
-- Estilos parpadean (FOUC): el proyecto ya inyecta estilos de Emotion en SSR vía `ThemeRegistry`.
-- Imágenes: Next permite dominios de Unsplash en `next.config.ts`.
+##Demo
+<img width="1557" height="1003" alt="image" src="https://github.com/user-attachments/assets/840d448b-507f-4bd0-ae52-0e5677189a3d" />
 
-## Estructura (resumen)
-```
-src/
-  app/
-    about/
-    buy/
-      [id]/
-    api/
-      properties/
-        [id]/route.ts
-        route.ts
-    mocks/
-      data/
-        properties.mock.json
-    components/
-    theme/
-```
+<img width="1557" height="1003" alt="image" src="https://github.com/user-attachments/assets/7aad3f3a-0cf7-416f-bcb9-b71d2066216a" />
 
-## Licencia
-Uso interno/educativo.
+<img width="1557" height="1003" alt="image" src="https://github.com/user-attachments/assets/ce38b9cb-6fec-4b2c-91aa-8d528bf3f2a6" />
+
+<img width="1557" height="1003" alt="image" src="https://github.com/user-attachments/assets/21725043-f562-4873-bd2d-6cddcc8dfd63" />
+
+
+
+
